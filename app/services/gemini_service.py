@@ -12,7 +12,7 @@ api_key = os.getenv('GEMINI_API_KEY')
 
 genai.configure(api_key=api_key)
 
-model = genai.GenerativeModel(model_name=settings.GEMINI_MODEL)  # Selected a free model
+model = genai.GenerativeModel(model_name=settings.GEMINI_MODEL)
 
 def gemini_response(text):
     # Eliminate the markdowns from the text
