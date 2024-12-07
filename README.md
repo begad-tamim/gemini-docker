@@ -11,8 +11,7 @@ This project provides Gemini services using Docker.
 
 1. Clone the repository:
     ```sh
-    git clone "this repo url"
-    cd your-repo-name
+    git clone "https://github.com/begad-tamim/gemini-docker.git"
     ```
 
 2. Build the Docker images:
