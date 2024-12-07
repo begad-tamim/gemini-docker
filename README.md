@@ -25,5 +25,3 @@ This project provides Gemini services using Docker.
     ```
 
 4. Open your browser and navigate to [http://localhost:8000/docs](http://localhost:8000/docs) to see the API documentation.
-
-## Project Structure
